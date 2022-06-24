@@ -101,7 +101,11 @@ footer{
   line-height: 13px;
   letter-spacing: -0.02em;
   color: #BDBDBD;
-  
+}
+.author a{
+  color: #BDBDBD;
+  text-decoration: none;
+  font-weight: bolder;
 }
 
 
